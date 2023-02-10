@@ -1,4 +1,4 @@
-# G-Tech Project Proposal
+# Saverie Project Proposal
 
 ### **Product Name**
 Saverie - Eat more, Waste less
